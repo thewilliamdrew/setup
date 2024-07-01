@@ -82,6 +82,7 @@ brew install --cask \
 	lepton \
 	mambaforge \
 	messenger \
+	microsoft-edge \
 	microsoft-office \
 	obsidian \
 	osirix-quicklook \

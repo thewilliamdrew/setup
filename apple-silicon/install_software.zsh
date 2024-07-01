@@ -70,6 +70,7 @@ brew install \
 	wget
 brew install --cask \
 	aldente \
+	anki \
 	bartender \
 	bettermouse \
 	bitwarden \

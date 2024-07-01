@@ -108,6 +108,6 @@ cat ~/repos/thewilliamdrew/setup/apple-silicon/mambaforge_arm_init >> ~/.zshrc
 
 . ~/.zshrc
 
-arch --x86_64 /bin/zsh ~/repos/thewilliamdrew/setup/install_software_x86_64.zsh
+arch --x86_64 /bin/zsh ~/repos/thewilliamdrew/setup/apple-silicon/install_software_x86_64.zsh
 
 echo "Don't forget to install Yoink and Magnet from the App Store"

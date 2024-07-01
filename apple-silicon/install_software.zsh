@@ -69,7 +69,11 @@ brew install \
 	tree \
 	wget
 brew install --cask \
+	aldente \
+	bartender \
 	bettermouse \
+	bitwarden \
+	daisydisk \
 	discord \
 	docker \
 	firefox \

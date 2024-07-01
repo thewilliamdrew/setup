@@ -19,19 +19,19 @@ if hash itksnap; then
 	echo "3) Found ITK-SNAP"
 else
 	echo "3) Installing ITK-SNAP"
-	brew install --cask itk-snap
+	brow install --cask itk-snap
 	echo 'export PATH=$PATH:/Applications/ITK-SNAP.app/Contents/bin' >> ~/.zshenv
 fi
 
 # Install basic utilities
 echo ""
 echo "4) Installing python and octave as Intel apps for compatibility"
-brew upgrade
-brew upgrade --cask 
-brew install \
+brow upgrade
+brow upgrade --cask 
+brow install \
   git-annex \
   octave
-brew install --cask \
+brow install --cask \
 	mambaforge \
 	freesurfer
 

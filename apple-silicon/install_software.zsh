@@ -70,7 +70,9 @@ brew install \
 	wget
 brew install --cask \
 	bettermouse \
+	discord \
 	docker \
+	firefox \
 	forklift \
 	github \
 	google-drive \
@@ -79,6 +81,7 @@ brew install --cask \
 	itsycal \
 	lepton \
 	mambaforge \
+	messenger \
 	microsoft-office \
 	obsidian \
 	osirix-quicklook \
@@ -91,11 +94,13 @@ brew install --cask \
 	shottr \
 	slack \
 	slicer \
+	steam \
 	sublime-text \
 	sublime-merge \
 	syntax-highlight \
 	tg-pro \
 	visual-studio-code \
+	whatsapp \
 	xquartz \
 	zoom \
 	zotero

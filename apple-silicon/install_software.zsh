@@ -64,6 +64,7 @@ brew install \
 	powerlevel10k \
 	rclone \
 	rsync \
+	ruby \
 	tig \
 	tmux \
 	tree \

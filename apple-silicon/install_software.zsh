@@ -77,6 +77,7 @@ brew install --cask \
 	daisydisk \
 	discord \
 	docker \
+	espanso \
 	firefox \
 	forklift \
 	github \

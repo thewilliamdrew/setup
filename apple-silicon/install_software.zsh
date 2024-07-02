@@ -100,6 +100,7 @@ brew install --cask \
 	rectangle \
 	rstudio \
 	shottr \
+	skim \
 	slack \
 	slicer \
 	steam \

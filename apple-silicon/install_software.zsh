@@ -103,6 +103,7 @@ brew install --cask \
 	skim \
 	slack \
 	slicer \
+	spotify \
 	steam \
 	sublime-text \
 	sublime-merge \
